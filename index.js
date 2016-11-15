@@ -15,7 +15,7 @@ $(function(){
 })
 */
 $(function(){
-    $('button').click(function(){
+    $('img').click(function(){
         $('h1').toggle(5000);
     })
 })
